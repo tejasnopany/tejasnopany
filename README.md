@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Tejas Nopany
 - 👀 I’m interested in Web Devlopment and Technology in general.
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me - Tejasnopnay00@gmail.com or shoot me a dm on twitter @nopanytejas
+- 💞️ I’m looking to collaborate on Web dev projects.
+- 📫 How to reach me - Tejasnopany00@gmail.com
 
 <!---
 tejasnopany/tejasnopany is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
